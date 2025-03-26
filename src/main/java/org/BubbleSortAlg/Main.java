@@ -23,6 +23,7 @@ public class Main {
                 new SalesRepresentative("guy 4", 6, 900)
         };
 
+
         Main main = new Main();
         SalesRepresentative[] sortedRepresentatives = main.sort(representatives);
 
